@@ -1,10 +1,10 @@
 # React Component
 
-> function Component
+> **function Component**
 
-> Class Component
+> **Class Component**
 
-> Pure Component
+> **Pure Component**
 
 
 # React Function Component 
