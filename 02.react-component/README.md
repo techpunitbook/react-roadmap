@@ -1,15 +1,15 @@
 # React Component
 
-> **function Component**
+> **Functional Components**
 
-> **Class Component**
+> **Class Components**
 
 <hr>
 
 
-## React Function Component 
+## React Functional Components 
 
-**Functional Components: Also known as stateless components, functional components are defined as JavaScript functions. They receive data as input (called "props" or properties) and return JSX (JavaScript XML) elements that represent the UI. Functional components are simple, easy to understand, and promote a functional programming style.**
+** Also known as stateless components, functional components are defined as JavaScript functions. They receive data as input (called "props" or properties) and return JSX (JavaScript XML) elements that represent the UI. Functional components are simple, easy to understand, and promote a functional programming style.**
 
 ## 
 ```
@@ -21,7 +21,7 @@ function Hello(){
 export default Hello
 ```
 
-## React Class Component 
+## React Class Components 
 
-**Class Components: Class components are defined as JavaScript classes that extend the React.Component class. They have a more advanced feature set and can manage state and lifecycle methods. Class components are useful when you need to handle complex UI logic or manage stateful data.**
+**Class components are defined as JavaScript classes that extend the React.Component class. They have a more advanced feature set and can manage state and lifecycle methods. Class components are useful when you need to handle complex UI logic or manage stateful data.**
 
