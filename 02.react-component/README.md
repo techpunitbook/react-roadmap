@@ -4,7 +4,7 @@
 
 > **Class Component**
 
-> **Pure Component**
+<hr>
 
 
 ## React Function Component 
