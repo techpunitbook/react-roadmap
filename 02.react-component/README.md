@@ -13,8 +13,15 @@
 
 ## 
 ```
+import React from 'react';
+
 function Hello(){
   return <h1>Hello In Function Component </h1>
 }
 export default Hello
 ```
+
+## React Class Component 
+
+**Class Components: Class components are defined as JavaScript classes that extend the React.Component class. They have a more advanced feature set and can manage state and lifecycle methods. Class components are useful when you need to handle complex UI logic or manage stateful data.**
+
