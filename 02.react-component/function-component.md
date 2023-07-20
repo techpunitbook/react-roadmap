@@ -6,7 +6,6 @@ import React from 'react'
 function FunctionOne() {
   return (
     <div>Welcome to Function</div>
-    
   )
 }
 
@@ -19,10 +18,10 @@ export default FunctionOne
 import React from 'react'
 function FunctionTwo() {
     let data="Hello";
+
     return (
-        <div>{msg}</div>
+        <div>{data}</div>
     )
 }
 export default FunctionTwo
-
 ```
