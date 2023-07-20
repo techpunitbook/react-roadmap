@@ -1,4 +1,4 @@
-# Example 1
+# Function Component Example 1
 
 ```
 import React from 'react'
@@ -11,4 +11,18 @@ function FunctionOne() {
 }
 
 export default FunctionOne
+```
+
+# Function Component  Example 2
+
+```
+import React from 'react'
+function FunctionTwo() {
+    let data="Hello";
+    return (
+        <div>{msg}</div>
+    )
+}
+export default FunctionTwo
+
 ```
